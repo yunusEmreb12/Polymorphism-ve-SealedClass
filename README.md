@@ -1,0 +1,1 @@
+C# Polymorphism ve Sealed Class(Object Orientented Programming)
